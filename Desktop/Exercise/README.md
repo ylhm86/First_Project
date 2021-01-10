@@ -1,7 +1,7 @@
 # Exercises
 The repository for Maven Project, implementing to testing the length and longest words in a sentence in using Java and JUnit
 
-#Instructions
+# Instructions
 Run following tests in order by executing mvn clean test:run command
 
 * giveSingleMaxLengthWordTest
@@ -13,5 +13,5 @@ Run following tests in order by executing mvn clean test:run command
 * giveEmptySpaceTest
 * giveNullTest
 
-#Dependencies
+# Dependencies
 The project requires the use of Maven and JUnit, along with Java v11.
